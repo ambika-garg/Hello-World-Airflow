@@ -5,7 +5,7 @@ from airflow.operators.bash import BashOperator
 with DAG(
     dag_id="hello-world",
     start_date=datetime(2023, 8, 15),
-    schedule="@daily",
+    schedule="@once",
     tags=["tutorial"]
 ) as dag:
     # Tasks are represented as operators
