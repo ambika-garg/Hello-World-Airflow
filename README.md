@@ -1,1 +1,3 @@
-### This is the "Hello-World" Airflow Project to assist Fabric users to follow along with the tutorial "Getting Started with MS Fabric".
+## Get Started with MS Fabric.
+
+ :star: This repository provides ready-to-use Hello-world Airflow Project to get started with Fabric.
