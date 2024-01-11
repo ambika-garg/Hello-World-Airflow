@@ -1,1 +1,0 @@
-/opt/airflow/git/Hello-World-Airflow.git/dags/airflow_operators-0.0.0-py3-none-any.whl
