@@ -18,6 +18,5 @@ with DAG(
     )
 
     test_installed_package = SampleOperator(task_id="test_installed_package", name="foo_bar")
-    print(test_installed_package)
 
     list_requirements >> test_installed_package
